@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tarotproject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onBoarding1">We hold a universe in our hands when we pick up a deck of tarot cards...</string>
+    <string name="onBoarding2">It is crazy how these tarot cards can have such an impact on our life...</string>
+    <string name="onBoarding3">A Tarot or Oracle spread to Start your day and connect with the spirit...</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="spreads">Spreads</string>
+    <string name="meditate">Meditate</string>
+    <string name="history">History</string>
+    <string name="profile">profile</string>
+</resources>
